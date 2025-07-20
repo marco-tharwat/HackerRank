@@ -29,7 +29,7 @@ class Result
                 return "12" + rest;
             }
             hours += 12;
-            return hours.ToString("D2") + rest; // Ensure two-digit hour
+            return hours.ToString("D2") + rest; 
         }
     }
 }
