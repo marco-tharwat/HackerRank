@@ -1,2 +1,2 @@
 # HackerRank
-A collection of HackerRank problems and my solution 
+A collection of HackerRank problems and my solutions
